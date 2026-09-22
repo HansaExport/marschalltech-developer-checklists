@@ -51,4 +51,9 @@ Eine kompakte Checkliste für klarere, schnellere und verlässlichere Code Revie
 
 Ein gutes Code Review soll Qualität erhöhen und Wissen teilen – nicht persönliche Vorlieben durchsetzen.
 
-Weitere Praxisinhalte: https://marschallone.de/tech/wissen/code-review-checkliste/
+## Mehr davon
+
+Diese Checkliste ist Teil des Themenbereichs Reviews im **MarschallTech Developer Team Toolkit** mit insgesamt **18 Vorlagen + 12 KI-Prompts** für kleine Softwareteams.
+
+- [Developer Team Toolkit ansehen](https://marschallone.de/tech/#toolkit)
+- [Ausführlicher Praxisartikel zur Code-Review-Checkliste](https://marschallone.de/tech/wissen/code-review-checkliste/)
