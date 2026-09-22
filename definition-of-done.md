@@ -46,4 +46,9 @@ Diese Vorlage ist bewusst allgemein gehalten und sollte an Team, Produkt und Ris
 
 "Done" bedeutet nicht nur "Code geschrieben". Eine Aufgabe ist erst dann abgeschlossen, wenn sie die gemeinsam vereinbarten Qualitätsanforderungen erfüllt und ohne versteckte Nacharbeit weiterverwendet oder ausgeliefert werden kann.
 
-Weitere Praxisinhalte: https://marschallone.de/tech/wissen/definition-of-done/
+## Mehr davon
+
+Diese Vorlage ist Teil des **MarschallTech Developer Team Toolkit** mit insgesamt **18 Vorlagen + 12 KI-Prompts** für kleine Softwareteams.
+
+- [Developer Team Toolkit ansehen](https://marschallone.de/tech/#toolkit)
+- [Ausführlicher Praxisartikel zur Definition of Done](https://marschallone.de/tech/wissen/definition-of-done/)
