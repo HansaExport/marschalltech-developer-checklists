@@ -42,4 +42,9 @@ Eine kompakte Checkliste für planbare und nachvollziehbare Software-Releases.
 
 Ein Release sollte reproduzierbar sein. Je weniger Schritte nur im Kopf einzelner Personen existieren, desto robuster wird der Prozess.
 
-Weitere Praxisinhalte: https://marschallone.de/tech/wissen/release-checkliste/
+## Mehr davon
+
+Diese Checkliste ist Teil des Themenbereichs Releases im **MarschallTech Developer Team Toolkit** mit insgesamt **18 Vorlagen + 12 KI-Prompts** für kleine Softwareteams.
+
+- [Developer Team Toolkit ansehen](https://marschallone.de/tech/#toolkit)
+- [Ausführlicher Praxisartikel zur Release-Checkliste](https://marschallone.de/tech/wissen/release-checkliste/)
